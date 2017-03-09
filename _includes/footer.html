@@ -1,12 +1,16 @@
 <footer class="site-footer">
 <link rel="stylesheet" href="/css/academicons.css"/>
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/footer.css">
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+ <!--    <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
+	<div class = "footer-col">Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>, <a href="https://github.com/jpswalsh/academicons">Academicons</a>, <a href="http://fontawesome.io/">Font Awesome</a></div><div class = "footer-col-float-right"> {% include icon-github.html username=site.github_username %}{% if site.researchgate_username %}{% include icon-researchgate.html username=site.researchgate_username %} {% endif %}</div>
+     <!--  <div class="footer-col footer-col-1">
+	  <span>Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>, <a href="https://github.com/jpswalsh/academicons">Academicons</a>, <a href="http://fontawesome.io/">Font Awesome</a></span>
+<!--         <ul class="contact-list">
           <li>
             {% if site.author %}
               {{ site.author | escape }}
@@ -17,34 +21,13 @@
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
-        </ul>
-      </div>
+        </ul> -->
+      </div> 
+	<!--   <div class = "footer-col footer-col-2">
+	  </div>
+ -->
+      <!--   -->
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-		  
-		  {% if site.researchgate_username %}
-          <li>
-            {% include icon-twitter.html username=site.researchgate_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
     </div>
 
   </div>
