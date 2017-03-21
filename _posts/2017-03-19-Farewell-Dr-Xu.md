@@ -12,4 +12,4 @@ Hope you have a nice future after your career in UWM.
 
 别君去兮何时还？且放白鹿青崖间，须行即骑访名山。
 
-![pic](\image\IMG_0346.PNG)
+![pic](\image\IMG_0346.png)
