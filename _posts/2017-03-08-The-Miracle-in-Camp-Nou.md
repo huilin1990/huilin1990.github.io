@@ -2,7 +2,7 @@
 layout: post
 title:  The miracle in Camp Nou
 date:   2017-03-08 16:30:30 -0600
-categories: life
+tags: life
 ---
 It is so lucky that I can be one of the miracle witnesses in my life.
 

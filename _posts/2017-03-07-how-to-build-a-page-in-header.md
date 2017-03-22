@@ -2,7 +2,7 @@
 layout: post
 title: How to build a page in header
 date: 2017-03-07 21:03:30 -0600
-categories: jekyll
+tags: jekyll
 ---
 `_layout` folders contains different kinds of pages in this web sites.
 `_includes` folders contains `headers`, `footers`, and `icon` things. Therefore, if we want to add some pages here, we should first analyse the `head.html`, and `header.html` files here.

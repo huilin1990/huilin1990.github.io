@@ -2,7 +2,7 @@
 layout: post
 title: Treasure Discovery
 Date: 2017-03-09 21:35
-categories: life
+tags: life
 ---
 
 Today I am so happy that I led my team to find the Smarty candy first in Class Frshwtr 504.

@@ -2,7 +2,7 @@
 layout: post
 title: How to push local websit to github using git shell
 date: 2017-03-01 20:30
-categories: life
+tags: life
 ---
 > Step 1
 `git add .`

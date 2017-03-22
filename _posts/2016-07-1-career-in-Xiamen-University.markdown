@@ -2,7 +2,7 @@
 layout: post
 title:  Career in Xiamen University
 date:   2016-07-01 21:03:30 -0600
-categories: life
+tags: life
 ---
 This is the seventh year I have been in Xiamen. It is almost my second hometown. I have resided in all three campuses.
 
@@ -12,7 +12,7 @@ My first two years.
 
 Main campus
 ---
-Although only one year I have been in main campus, I'd like to say this is one of the most colorful years in my life. 
+Although only one year I have been in main campus, I'd like to say this is one of the most colorful years in my life.
 
 Xiang'an Campus
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  Farewell, Dr. Xu
 date:   2017-03-19 21:03:30 -0600
-categories: life
+tags: life
 ---
 Farewell, Dr. Xu.
 It was a wonderful time to play basketball with you, talk to you, and do experiments with you.  
