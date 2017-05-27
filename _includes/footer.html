@@ -7,7 +7,16 @@
  <!--    <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
     <div class="footer-col-wrapper">
-	<div class = "footer-col">Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>, <a href="https://github.com/jpswalsh/academicons">Academicons</a>, <a href="http://fontawesome.io/">Font Awesome</a></div><div class = "footer-col-float-right"> {% include icon-github.html username=site.github_username %}{% if site.researchgate_username %}{% include icon-researchgate.html username=site.researchgate_username %} {% endif %}</div>
+	<div class = "footer-col">Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>,
+    <a href="https://github.com/jpswalsh/academicons">Academicons</a>,
+    <a href="http://fontawesome.io/">Font Awesome</a>
+  </div>
+  <div class = "footer-col-float-right">
+    {% include icon-github.html username=site.github_username %}
+    {% if site.researchgate_username %}
+    {% include icon-researchgate.html username=site.researchgate_username %}
+    {% endif %}
+  </div>
      <!--  <div class="footer-col footer-col-1">
 	  <span>Powered by <a href="http://github.com/mojombo/jekyll">Jekyll</a>, <a href="https://github.com/jpswalsh/academicons">Academicons</a>, <a href="http://fontawesome.io/">Font Awesome</a></span>
 <!--         <ul class="contact-list">
@@ -22,7 +31,7 @@
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul> -->
-      </div> 
+      </div>
 	<!--   <div class = "footer-col footer-col-2">
 	  </div>
  -->
