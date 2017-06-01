@@ -6,19 +6,37 @@ title: Yukon River Data Analysis
 ---
 ### Map of Yukon River drainage
 
+Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` hydrological station
+
 ![map](\image\map of Yukon River.jpg)
+
+### Daily Discharge and Sampling Date
+![daily discharge](\image\Daily discharge.jpg)
+
+### Monthly integrated discharge
+![monthly discharge](\image\Monthly integrated.jpg)
+
+### Precipitation
+![Precipitation](\image\Precipitation.jpg)
 
 ### Three fluorescence components by PARAFAC Analysis
 
 ![three components](\image\Fluorescence-EEM-Plot-of-component-Combined.jpg)
 
+### Excitation and emission maximum
 
 |Components|  Ex max (nm) | Em max (nm) |Property|
 |:--:|:-------:|:------:|:--------:|
 | C1 |   280   |   508  |Humic-like|
 | C2 | 240/310 |   412  |
 | C3 |   250   |   474  |
-{:.mbtablestyle}
+
+### Normalized PARAFAC components
+![Component percentage](\image\COM-C1-C2-C3.jpg)
+
+### COM data
+
+![COM analysis](\image\Analysis.jpg)
 
 ### Total data
 
@@ -67,11 +85,7 @@ title: Yukon River Data Analysis
 | YR_COM6     | 1.09 | 0.49 | 16.2  | 0    | 0    | 0.05 | 24.492 | 24.344 | 36.793 | 0.214 | 0.212 | 0.321 |
 
 
-### COM data
-
-![COM analysis](\image\Analysis.jpg)
-
-### Basic data
+### Figures from literatures
 
 ![data](\image\Basic data.jpg)
 ![data2](\image\Basic data2.jpg)
