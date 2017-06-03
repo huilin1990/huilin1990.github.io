@@ -28,15 +28,20 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 |Components|  Ex max (nm) | Em max (nm) |Property|
 |:--:|:-------:|:------:|:--------:|
 | C1 |   280   |   508  |Humic-like|
-| C2 | 240/310 |   412  |
-| C3 |   250   |   474  |
+| C2 | 240/310 |   412  |Humic-like|
+| C3 |   250   |   474  |Humic-like|
 
 ### Normalized PARAFAC components
 ![Component percentage](\image\COM-C1-C2-C3.jpg)
 
-### COM data
+### DOM
+![DOM](\image\DOM.jpg)
 
+### COM
 ![COM analysis](\image\Analysis.jpg)
+
+### <1kDa
+![LMW](\image\LMW.jpg)
 
 ### Total data
 
