@@ -50,6 +50,10 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 ### Normalized PARAFAC components-LMW
 ![Component percentage](\image\LMW-C1-C2-C3.jpg)
 
+### S275-295 vs %C1, C2, C3
+![](\image\Correlation between S275-295vsC1-C3-2.jpg)
+
+
 ### Total data
 
 | Sample_Name | a254  | SUVA   | S275-295 | TOC    | TN    | DOC/TN | Weight | Carbon percentage | Nitrogen percentage | MCHO   | %MCHO |
