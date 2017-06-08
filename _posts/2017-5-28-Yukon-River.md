@@ -33,26 +33,25 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 
 
 
-### DOM
-![DOM](\image\DOM.jpg)
+### LMW-DOM-COM
+
+![](image\Basic Comparison.jpg)
 
 ### Normalized PARAFAC components-DOM
 ![Component percentage](\image\DOM-C1-C2-C3.jpg)
 
-### COM
-![COM analysis](\image\Analysis.jpg)
-
 ### Normalized PARAFAC components-COM
 ![Component percentage](\image\COM-C1-C2-C3.jpg)
 
-### <1kDa
-![LMW](\image\LMW.jpg)
 ### Normalized PARAFAC components-LMW
 ![Component percentage](\image\LMW-C1-C2-C3.jpg)
 
 ### S275-295 vs %C1, C2, C3
 ![](\image\Correlation between S275-295vsC1-C3-2.jpg)
 
+![DOM](\image\DOM.jpg)
+![COM analysis](\image\Analysis.jpg)
+![LMW](\image\LMW.jpg)
 
 ### Total data
 
