@@ -37,6 +37,9 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 
 ![](\image\Basic-Comparison.jpg)
 
+### Fluorescence components ratios
+![](\image\components ratio.jpg)
+
 ### Normalized PARAFAC components-DOM
 ![Component percentage](\image\DOM-C1-C2-C3.jpg)
 
