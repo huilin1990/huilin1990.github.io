@@ -49,6 +49,10 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 ### Normalized PARAFAC components-LMW
 ![Component percentage](\image\LMW-C1-C2-C3.jpg)
 
+### Figure 6 from Guo et al.
+
+![fig6guo](\image\Fig6 from Guo.jpg)
+
 ### S275-295 vs %C1, C2, C3
 ![](\image\Correlation between S275-295vsC1-C3-2.jpg)
 
@@ -154,7 +158,3 @@ Concentrations of carbohydrate species, including monosaccharides (MCHO) and pol
 ### Isotope source difference
 
 ![isotope source](\image\isotope-source.jpg)
-
-### Figure 6 from Guo et al.
-
-![fig6guo](\image\Fig6 from Guo.jpg)
