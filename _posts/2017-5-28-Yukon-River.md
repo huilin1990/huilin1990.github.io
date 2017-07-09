@@ -8,20 +8,20 @@ title: Yukon River Data Analysis
 
 Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` hydrological station
 
-![map](\image\map of Yukon River.jpg)
+![map](\image\Yukon\map of Yukon River.jpg)
 
 ### Daily Discharge and Sampling Date
-![daily discharge](\image\Daily discharge.jpg)
+![daily discharge](\image\Yukon\Daily discharge.jpg)
 
 ### Monthly integrated discharge
-![monthly discharge](\image\Monthly integrated.jpg)
+![monthly discharge](\image\Yukon\Monthly integrated.jpg)
 
 ### Precipitation
-![Precipitation](\image\Precipitation.jpg)
+![Precipitation](\image\Yukon\Precipitation.jpg)  
 
 ### Three fluorescence components by PARAFAC Analysis
 
-![three components](\image\Fluorescence-EEM-Plot-of-component-Combined.jpg)
+![three components](\image\Yukon\Fluorescence-EEM-Plot-of-component-Combined.jpg)
 
 ### Excitation and emission maximum
 
@@ -35,30 +35,50 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 
 ### LMW-DOM-COM
 
-![](\image\Basic-Comparison.jpg)
+![](\image\Yukon\Basic-Comparison.jpg)
 
 ### Fluorescence components ratios
-![](\image\components ratio.jpg)
+![](\image\Yukon\components ratio.jpg)
 
 ### Normalized PARAFAC components-DOM
-![Component percentage](\image\DOM-C1-C2-C3.jpg)
+![Component percentage](\image\Yukon\DOM-C1-C2-C3.jpg)
 
 ### Normalized PARAFAC components-COM
-![Component percentage](\image\COM-C1-C2-C3.jpg)
+![Component percentage](\image\Yukon\COM-C1-C2-C3.jpg)
 
 ### Normalized PARAFAC components-LMW
-![Component percentage](\image\LMW-C1-C2-C3.jpg)
+![Component percentage](\image\Yukon\LMW-C1-C2-C3.jpg)
 
 ### Figure 6 from Guo et al.
 
-![fig6guo](\image\Fig6 from Guo.jpg)
+![fig6guo](\image\Yukon\Fig6 from Guo.jpg)
 
 ### S275-295 vs %C1, C2, C3
-![](\image\Correlation between S275-295vsC1-C3-2.jpg)
+![](\image\Yukon\Correlation between S275-295vsC1-C3-2.jpg)
+![DOM](\image\Yukon\DOM.jpg)
+![COM analysis](\image\Yukon\Analysis.jpg)
+![LMW](\image\Yukon\LMW.jpg)
 
-![DOM](\image\DOM.jpg)
-![COM analysis](\image\Analysis.jpg)
-![LMW](\image\LMW.jpg)
+### Integrations of each size intervals - Size distribution of COM
+
+### UV1-UV<sub>254</sub>
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV1 Yukon 01 COM.jpg)
+### UV2-UV<sub>280</sub>
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV2 Yukon 01 COM.jpg)
+### Fluorescence <sub>350/450</sub> (Humic-like)
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD1 Yukon 01 COM.jpg)
+### Fluorescence <sub>275/340</sub> (Protein-like)
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD2 Yukon 01 COM.jpg)
+
+### Integrations of each size intervals - Size distribution of DOM
+### UV1-UV<sub>254</sub>
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV1 Yukon 01 DOM.jpg)
+### UV2-UV<sub>280</sub>
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV2 Yukon 01 DOM.jpg)
+### Fluorescence <sub>350/450</sub> (Humic-like)
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD1 Yukon 01 DOM.jpg)
+### Fluorescence <sub>275/340</sub> (Protein-like)
+![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD2 Yukon 01 DOM.jpg)
 
 ### Total data
 
@@ -109,52 +129,64 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 
 ### Figures from literatures
 
-![data](\image\Basic data.jpg)
-![data2](\image\Basic data2.jpg)
-![data3](\image\Basic data3.jpg)
+![data](\image\Yukon\Basic data.jpg)
+![data2](\image\Yukon\Basic data2.jpg)
+![data3](\image\Yukon\Basic data3.jpg)
 
 ### DOC&CHO Concentration
 
-![doc](\image\DOC table.jpg)
-![doc2](\image\DOC table2.jpg)
+![doc](\image\Yukon\DOC table.jpg)
+![doc2](\image\Yukon\DOC table2.jpg)
 
 ### DOC HMW & LMW
-![DOC1](\image\DOC figure.jpg)
+![DOC1](\image\Yukon\DOC figure.jpg)
 
 Variations of dissolved organic carbon in the HMW (1kDa–0.45 um) and the LMW (<1kDa) fractions
 
 ### CHO MCHO&TCHO
 
-![CHO](\image\CHO figure.jpg)
+![CHO](\image\Yukon\CHO figure.jpg)
 
 Concentrations of carbohydrate species, including monosaccharides (MCHO) and polysaccharides (PCHO), in the <0.45 um DOM fraction.
 
 ### Comparison of HMW and LMW
 
-![Fig6a](\image\Fig6a.jpg)
-![Fig7](\image\Fig7.jpg)
+![Fig6a](\image\Yukon\Fig6a.jpg)
+![Fig7](\image\Yukon\Fig7.jpg)
 
 ### Comparison btw/ Fig 2 from Zou et al. and Fig 4 from Guo et al.
 
-![Fig2](\image\Fig2_from_zou.jpg)
-![Fig4](\image\Fig4_from_Guo.jpg)
+![Fig2](\image\Yukon\Fig2_from_zou.jpg)
+![Fig4](\image\Yukon\Fig4_from_Guo.jpg)
 
 ### Fig 4 from Zou et al.
 
-![Fig4](\image\Fig4_from_zou.jpg)
+![Fig4](\image\Yukon\Fig4_from_zou.jpg)
 
 ### Fig 5 from Zou et al.
 
-![Fig5](\image\Fig5_from_zou.jpg)
+![Fig5](\image\Yukon\Fig5_from_zou.jpg)
 
 ### DOC POC DIC
 
-![Fig1](\image\DOC-POC-DIC.jpg)
+![Fig1](\image\Yukon\DOC-POC-DIC.jpg)
 
 ### Isotope Information
 
-![isotioe](\image\Isotope.jpg)
+![isotioe](\image\Yukon\Isotope.jpg)
 
 ### Isotope source difference
 
-![isotope source](\image\isotope-source.jpg)
+![isotope source](\image\Yukon\isotope-source.jpg)
+
+### Hydrodynamic diameter (nm)
+
+### Integrations of each size intervals - Size distribution of DOM
+### UV1
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) UV1 Yukon 01 COM.jpg)
+### UV2
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) UV2 Yukon 01 COM.jpg)
+### Fluorescence 1 -
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) FLD1 Yukon 01 COM.jpg)
+### Fluorescence 2 -
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) FLD2 Yukon 01 COM.jpg)
