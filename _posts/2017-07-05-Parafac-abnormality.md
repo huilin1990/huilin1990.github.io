@@ -22,7 +22,7 @@ Abnormality: abrupt decline of some peaks
 ### Walker et al. 2013
 ![](\image\PARAFAC_EEM_Correction\Walker et al. 2013.jpg)
 
-### Stedmon&Markager 2005
+### Stedmon & Markager 2005
 ![](\image\PARAFAC_EEM_Correction\Stedmon&Markager 2005.jpg)
 
 ### Stedmon et al 2003
@@ -90,3 +90,18 @@ colloidal organic matter (>1kDa), low molecular weight organic matter (<1kDa), d
 4 components from PARAFAC:
 
 ![](\image\PARAFAC_EEM_Correction\Fluorescence-EEM-Plot-of-component-1234-revised.jpg)
+
+### Comparison
+
+| ﻿Component   | before program revised |               | After revised   |               |
+|-------------|------------------------|---------------|--------------------|---------------|
+|             | Excitation (nm)        | Emission (nm) | Excitation (nm) | Emission (nm) |
+| 3Components                          |               |                 |               |
+| C1          | 280                    | 485           | 260             | 480           |
+| C2          | 250                    | 480           | 250             | 420           |
+| C3          | 220                    | 405           | <250            | 330           |
+| 4Components                          |               |                 |               |
+| C1          | 230                    | 450           | 250             | 420           |
+| C2          | 310                    | 410           | 270             | 500           |
+| C3          | 385                    | 480           | 260/375         | 480           |
+| C4          | <220                   | 380           | <250            | 330           |
