@@ -2,7 +2,7 @@
 layout: post
 date: 2017-05-28 10:02
 categories: Research
-title: Yukon River Data Analysis
+title: Yukon River 2002 Data Analysis
 ---
 ### Map of Yukon River drainage
 
@@ -19,19 +19,17 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 ### Precipitation
 ![Precipitation](\image\Yukon\Precipitation.jpg)  
 
-### Three fluorescence components by PARAFAC Analysis
+### Three fluorescence components by PARAFAC Analysis-revised
 
-![three components](\image\Yukon\Fluorescence-EEM-Plot-of-component-Combined.jpg)
+![three components](\image\Yukon\Fluorescence-EEM-Plot-of-component-123-revised.jpg)
 
 ### Excitation and emission maximum
 
 |Components|  Ex max (nm) | Em max (nm) |Property|
 |:--:|:-------:|:------:|:--------:|
-| C1 |   280   |   508  |Humic-like|
-| C2 | 240/310 |   412  |Humic-like|
-| C3 |   250   |   474  |Humic-like|
-
-
+| C1 | 240/315 |   432  |Humic-like|
+| C2 | 260/365 |   494  |Humic-like|
+| C3 |<240/295 |   374  |Humic-like|
 
 ### LMW-DOM-COM
 
