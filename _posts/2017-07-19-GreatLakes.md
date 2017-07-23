@@ -12,7 +12,8 @@ title: 2017 Great Lakes Investigation Data Analysis and Presentation
 
 **Sampling sites**:
 
-![](\image\GL2017\Sampling_map.jpg)
+![](\image\GL2017\Sampling_map2.jpg)
+![](\image\GL2017\Table-1.jpg)
 
 ## DOC concentration, a<sub>254</sub>, and SUVA<sub>254</sub>
 
@@ -22,7 +23,11 @@ Both DOC concentration and a<sub>254</sub> values are consistent with *Zhou et a
 
 ![](\image\GL2017\Zhengzhen.jpg)
 
+![](\image\GL2017\Table-2.jpg)
+
 ## EEMs analysis
+
+![](\image\GL2017\bix_fix_hix_surface.jpg)
 
 Four FDOM components decomposed by parallel factor analysis are shown below.
 
