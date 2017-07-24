@@ -17,6 +17,8 @@ title: 2017 Great Lakes Investigation Data Analysis and Presentation
 
 ## DOC concentration, a<sub>254</sub>, and SUVA<sub>254</sub>
 
+![](\image\GL2017\Graph1.jpg)
+
 Both DOC concentration and a<sub>254</sub> values are consistent with *Zhou et al 2013*. Thy are relatively low in Lake Superior and South Lake Michigan.  
 
 ![](\image\GL2017\DOC-a254-SUVA-surface.jpg)
