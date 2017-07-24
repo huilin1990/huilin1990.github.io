@@ -49,6 +49,10 @@ High correlation relationship is observed between **Component 1** and **Componen
 
 ![](\image\GL2017\C1-C4.jpg)
 
+### Correlation between parameters
+
+![](\image\GL2017\Correlation.jpg)
+
 ## Size distribution of colloids in the Great Lakes
 
 Hydrodynamic diameters of the dissolved organic colloids (UV<sub>254</sub>)
