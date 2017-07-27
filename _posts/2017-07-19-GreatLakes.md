@@ -29,6 +29,8 @@ Both DOC concentration and a<sub>254</sub> values are consistent with *Zhou et a
 
 ## EEMs analysis
 
+![](\image\GL2017\LakeEEMscombination.jpg)
+
 ![](\image\GL2017\bix_fix_hix_surface.jpg)
 
 Four FDOM components decomposed by parallel factor analysis are shown below.
