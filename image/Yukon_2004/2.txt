@@ -1,0 +1,58 @@
+ 驱动器 D 中的卷是 Document
+ 卷的序列号是 1A1A-630B
+
+ D:\Github\a54144.github.io\image\Yukon_2004 的目录
+
+2017/07/26 周三  21:08         1,034,027 18O2D.jpg
+2017/07/27 周四  10:39           646,144 BIX-COM.jpg
+2017/07/27 周四  10:39           764,704 BIX-DOM.jpg
+2017/07/27 周四  10:39           509,635 BIX-LMW.jpg
+2017/07/28 周五  00:25           690,652 BIXHIX-COM.jpg
+2017/07/28 周五  00:25           716,713 BIXHIX-DOM.jpg
+2017/07/28 周五  00:25           544,261 BIXHIX-LMW.jpg
+2017/07/28 周五  00:26           733,084 C3C1C2-COM.jpg
+2017/07/28 周五  00:26           829,364 C3C1C2-DOM.jpg
+2017/07/28 周五  00:26           607,972 C3C1C2-LMW.jpg
+2017/07/27 周四  10:40           747,274 Component ratio-COM.jpg
+2017/07/27 周四  10:40           811,037 Component ratio-DOM.jpg
+2017/07/27 周四  10:40           763,263 Component ratio-LMW.jpg
+2017/07/27 周四  10:39           631,367 Component-COM.jpg
+2017/07/27 周四  10:40           780,842 Component-DOM.jpg
+2017/07/27 周四  10:40           688,956 Component-LMW.jpg
+2017/07/27 周四  11:04           307,096 COM_correlation.jpg
+2017/07/26 周三  17:09         1,134,038 Data_from_literature.jpg
+2017/07/26 周三  21:09           279,071 DOC-DIC.jpg
+2017/07/27 周四  11:19           290,697 DOM_correlation.jpg
+2017/07/27 周四  10:39           656,327 FIX-COM.jpg
+2017/07/27 周四  10:39           762,073 FIX-DOM.jpg
+2017/07/27 周四  10:39           524,311 FIX-LMW.jpg
+2017/07/11 周二  14:54           171,543 Fluorescence-EEM-Plot-of-component-123.jpg
+2017/07/27 周四  10:39           602,942 HIX-COM.jpg
+2017/07/27 周四  10:39           640,633 HIX-DOM.jpg
+2017/07/27 周四  10:39           472,274 HIX-LMW.jpg
+2017/07/27 周四  11:29           288,744 LMW_correlation.jpg
+2017/07/26 周三  16:49           340,746 map.jpg
+2017/07/27 周四  23:02           119,571 Multiple-samples---Hydrodynamic-diameter-(nm)-FLD1-YR04C.jpg
+2017/07/27 周四  22:53           122,284 Multiple-samples---Hydrodynamic-diameter-(nm)-FLD2-YR04C.jpg
+2017/07/27 周四  23:05           105,893 Multiple-samples---Hydrodynamic-diameter-(nm)-UV1-YR04C.jpg
+2017/07/27 周四  23:03           131,108 Multiple-samples---Hydrodynamic-diameter-(nm)-UV2-YR04C.jpg
+2017/07/27 周四  22:48           153,199 Multiple-samples---Integrations-of-each-size-intervals-Da-FLD1-YR04C.jpg
+2017/07/27 周四  22:47           144,183 Multiple-samples---Integrations-of-each-size-intervals-Da-FLD2-YR04C.jpg
+2017/07/27 周四  22:52           143,876 Multiple-samples---Integrations-of-each-size-intervals-Da-UV1-YR04C.jpg
+2017/07/27 周四  22:51           160,045 Multiple-samples---Integrations-of-each-size-intervals-Da-UV2-YR04C.jpg
+2017/07/27 周四  22:40           125,845 Multiple-samples---Integrations-of-each-size-intervals-nm-FLD1-YR04C.jpg
+2017/07/27 周四  22:37           127,453 Multiple-samples---Integrations-of-each-size-intervals-nm-FLD2-YR05D.jpg
+2017/07/27 周四  22:43           124,684 Multiple-samples---Integrations-of-each-size-intervals-nm-UV1-YR04C.jpg
+2017/07/27 周四  22:42           153,127 Multiple-samples---Integrations-of-each-size-intervals-nm-UV2-YR04C.jpg
+2017/07/27 周四  10:39           893,098 S275-295-COM.jpg
+2017/07/27 周四  10:39           882,001 S275-295-DOM.jpg
+2017/07/27 周四  10:39           756,008 S275-295-LMW.jpg
+2017/07/27 周四  10:39           719,736 SUVA-COM.jpg
+2017/07/27 周四  10:39           812,071 SUVA-DOM.jpg
+2017/07/27 周四  10:39           598,894 SUVA-LMW.jpg
+2017/07/25 周二  23:43           288,418 YR2004_COM_form.jpg
+2017/07/25 周二  23:43           312,461 YR2004_DOM_form.jpg
+2017/07/25 周二  23:43           285,649 YR2004_LMW_form.jpg
+2017/07/25 周二  15:17            61,490 Yukon_River_2004_EEM_3C&4C_form.jpg
+              51 个文件     25,190,884 字节
+               0 个目录 38,650,400,768 可用字节
