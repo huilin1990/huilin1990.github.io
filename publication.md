@@ -7,4 +7,4 @@ permalink: /publication/
 
 **Lin, Hui**, Yihua Cai, Xiuwu Sun, Guoxiang Chen, Bangqin Huang, Hua Cheng, and Min Chen. **Sources and mixing behavior of chromophoric dissolved organic matter in the Taiwan Strait.** , *Marine Chemistry* 187 (2016): 43-56.
 
-Li Qi, Min Chen, Renming Jia, Jian Zeng, **Hui Lin**, Minfang Zheng, Yusheng Qiu. Transit time of river water in the Bering and Chukchi Seas estimated from δ18O and radium isotopes. *Progress in Oceanography*, doi: 10.1016/j.pocean.2017.08.004.
+Li Qi, Min Chen, Renming Jia, Jian Zeng, **Hui Lin**, Minfang Zheng, Yusheng Qiu. **Transit time of river water in the Bering and Chukchi Seas estimated from δ<sup>18</sup>O and radium isotopes.** *Progress in Oceanography*, doi: 10.1016/j.pocean.2017.08.004.
