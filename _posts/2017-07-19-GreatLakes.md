@@ -4,6 +4,23 @@ date: 2017-07-19 15:57
 categories: Research
 title: 2017 Great Lakes Investigation Data Analysis and Presentation
 ---
+
+<style>
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #000000;
+}
+
+th{
+    border:2px solid #000000;
+}
+
+td{
+    border:1px solid #000001;
+}
+</style>
+
 **R/V**: Blue Heron.
 
 **Sample date**: June 14 ~ 21, 2017.
@@ -101,3 +118,47 @@ __Huimic-like__ (FLD1)
 
 __Protein-like__ (FLD2)
 ![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-FLD2.jpg)
+
+/>100 kDa fractionation in protein-like FDOM occupied averagely more than half of the integration (57.32%) in Lake Michigan. Meanwhile, the largest protein-like fractionation (>100 kDa) has greatest proportion of FDOM integration chromotography. 
+
+|       Lake Michigan       |       |      Lake Superior      |
+|:-------------------------:|-------:|:-------------:|---------:|
+| UV1                       |       |               |         |
+| 1-5kDa                                                      |
+| S3-0m                     | 44.04 | S23-0m        | 46.64   |
+| KS103-0m                  | 44.02 | S22B-0m       | 51.09   |
+| S13.5-0m                  | 38.21 | S30-0m        | 48.25   |
+| S13-125m                  | 38.13 | S30-278m      | 48.79   |
+| Average                   | 41.1  | Average       | 48.69 |
+| > 100 kDa                 |       |               |         |
+| S3-0m                     | 19.42 | S23-0m        | 12.21   |
+| KS103-0m                  | 19.15 | S22B-0m       | 7       |
+| S13.5-0m                  | 30.03 | S30-0m        | 6.75    |
+| S13-125m                  | 26.81 | S30-278m      | 5       |
+| Average                   | 23.85 | Average       | 7.74    |
+| Humic-like fluorescence   |       |               |         |
+| 1-5kDa                    |       |               |         |
+| S3-0m                     | 51.6  | S23-0m        | 55.24   |
+| KS103-0m                  | 52.93 | S22B-0m       | 58.71   |
+| S13.5-0m                  | 50.66 | S30-0m        | 55.11   |
+| S13-125m                  | 52.06 | S30-278m      | 55.66   |
+| Average                   | 51.81 | Average       | 56.18   |
+| > 100 kDa                 |       |               |         |
+| S3-0m                     | 5.36  | S23-0m        | 4.45    |
+| KS103-0m                  | 6     | S22B-0m       | 4.24    |
+| S13.5-0m                  | 7.31  | S30-0m        | 3.93    |
+| S13-125m                  | 6.45  | S30-278m      | 2.19    |
+| Average                   | 6.28  | Average       | 3.70    |
+| Protein-like fluorescence |       |               |         |
+| 1-5kDa                    |       |               |         |
+| S3-0m                     | 28.06 | S23-0m        | 27.46   |
+| KS103-0m                  | 13.07 | S22B-0m       | 36.24   |
+| S13.5-0m                  | 24.5  | S30-0m        | 34.14   |
+| S13-125m                  | 27.36 | S30-278m      | 27.31   |
+| Average                   | 23.25 | Average       | 31.29   |
+| > 100 kDa                 |       |               |         |
+| S3-0m                     | 50.49 | S23-0m        | 45.7    |
+| KS103-0m                  | 72.21 | S22B-0m       | 30.16   |
+| S13.5-0m                  | 59.49 | S30-0m        | 30.65   |
+| S13-125m                  | 47.07 | S30-278m      | 45      |
+| Average                   | 57.32 | Average       | 37.88   |
