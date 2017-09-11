@@ -57,6 +57,8 @@ High correlation relationship is observed between **Component 1** and **Componen
 
 ## Size distribution of colloids in the Great Lakes
 
+**Concentration Normalization completed.**
+
 Hydrodynamic diameters of the dissolved organic colloids (UV<sub>254</sub>)
 
 ![](\image\GL2017\Multiple-samples---Hydrodynamic-diameter-nm-UV1-lake2017.jpg)
@@ -75,8 +77,6 @@ Integration - UV1
 
 Let's pay attention to the Sample **S3-0m** and Sample **S22B-0m**. They have two common things which are distinguished with other samples; they were collected at the center of Lake Michigan and Lake Superior, and the percentage of **100 kDa ~0.7e-6 m** fraction were relatively low.
 
-
-
 ![](\image\GL2017\Multiple-samples---Integrations-of-each-size-intervals-Da-UV1.jpg)
 
 Integration FLD1 __Huimic-like__
@@ -90,3 +90,14 @@ Integration FLD1 __Huimic-like__
 Integration -FLD2 __Protein-like__
 
 ![](\image\GL2017\Multiple-samples---Integrations-of-each-size-intervals-Da-FLD2.jpg)
+
+## Pie charts
+
+UV1
+![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-UV1.jpg)
+
+__Huimic-like__ (FLD1)
+![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-FLD1.jpg)
+
+__Protein-like__ (FLD2)
+![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-FLD2.jpg)
