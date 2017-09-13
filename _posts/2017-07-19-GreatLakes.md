@@ -21,6 +21,8 @@ td{
 }
 </style>
 
+Latest update: 2017-9-12
+
 **R/V**: Blue Heron.
 
 **Sample date**: June 14 ~ 21, 2017.
@@ -90,6 +92,10 @@ Hydrodynamic diameters of the __Humic-like__ colloids
 
 ![](\image\GL2017\Multiple-samples---Hydrodynamic-diameter-(nm)-FLD1-lake2017.jpg)
 
+## Molecular weights of peak in size chromotography
+
+![](\image\GL2017\Table-3.jpg)
+
 Integration - UV1
 
 Let's pay attention to the Sample **S3-0m** and Sample **S22B-0m**. They have two common things which are distinguished with other samples; they were collected at the center of Lake Michigan and Lake Superior, and the percentage of **100 kDa ~0.7e-6 m** fraction were relatively low.
@@ -119,7 +125,7 @@ __Huimic-like__ (FLD1)
 __Protein-like__ (FLD2)
 ![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-FLD2.jpg)
 
-/>100 kDa fractionation in protein-like FDOM occupied averagely more than half of the integration (57.32%) in Lake Michigan. Meanwhile, the largest protein-like fractionation (>100 kDa) has greatest proportion of FDOM integration chromotography. 
+/>100 kDa fractionation in protein-like FDOM occupied averagely more than half of the integration (57.32%) in Lake Michigan. Meanwhile, the largest protein-like fractionation (>100 kDa) has greatest proportion of FDOM integration chromotography.
 
 |       Lake Michigan       |       |      Lake Superior      |
 |:-------------------------:|-------:|:-------------:|---------:|
@@ -162,3 +168,14 @@ __Protein-like__ (FLD2)
 | S13.5-0m                  | 59.49 | S30-0m        | 30.65   |
 | S13-125m                  | 47.07 | S30-278m      | 45      |
 | Average                   | 57.32 | Average       | 37.88   |
+
+## Pie charts
+
+UV1
+![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-_Combined_with_LMWUV1.jpg)
+
+__Huimic-like__ (FLD1)
+![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-_Combined_with_LMWFLD1.jpg)
+
+__Protein-like__ (FLD2)
+![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-_Combined_with_LMWFLD2.jpg)
