@@ -38,6 +38,10 @@ Latest update: 2017-9-12
 
 ![](\image\GL2017\Graph1.jpg)
 
+
+![](\image\GL2017\Graph245.jpg)
+
+
 Both DOC concentration and a<sub>254</sub> values are consistent with *Zhou et al 2013*. Thy are relatively low in Lake Superior and South Lake Michigan.  
 
 ![](\image\GL2017\DOC-a254-SUVA-surface.jpg)
@@ -95,6 +99,8 @@ Hydrodynamic diameters of the __Humic-like__ colloids
 ## Molecular weights of peak in size chromotography
 
 ![](\image\GL2017\Table-3.jpg)
+
+![](\image\GL2017\Mwcalculation.jpg)
 
 Integration - UV1
 
