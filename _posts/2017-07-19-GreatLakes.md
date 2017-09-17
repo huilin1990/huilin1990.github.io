@@ -99,7 +99,9 @@ Hydrodynamic diameters of the __Humic-like__ colloids
 ## Molecular weights of peak in size chromotography
 
 $$ M_n = \frac{\sum M_i \cdot n_i}{\sum n_i}$$
-$$ M_w = \frac{\sum M_i \cdot w_i}{\sum w_i} = frac{\sum M_i^2 \cdot n_i}{\sum M_i \cdot n_i}$$
+
+$$ M_w = \frac{\sum M_i \cdot w_i}{\sum w_i} = \frac{\sum M_i^2 \cdot n_i}{\sum M_i \cdot n_i}$$
+
 $$ DPI = \frac{M_w}{M_n}$$
 
 ![](\image\GL2017\Table-3.jpg)
