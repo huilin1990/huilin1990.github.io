@@ -98,7 +98,9 @@ Hydrodynamic diameters of the __Humic-like__ colloids
 
 ## Molecular weights of peak in size chromotography
 
-![](\image\GL2017\Table-3.jpg)
+<!-- ![](\image\GL2017\Table-3.jpg) -->
+
+$$Mn = {M \over B}$$
 
 ![](\image\GL2017\Mwcalculation.jpg)
 
