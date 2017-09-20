@@ -21,17 +21,21 @@ td{
 }
 </style>
 
-Latest update: 2017-9-12
+Latest update: 2017-9-17
 
 **R/V**: Blue Heron.
 
 **Sample date**: June 14 ~ 21, 2017.
 
-**Data measurements**: UV-Visable spectrom, EEMs, DOC, DN, Size chromotography.
+**Data measurements**: UV-Visable spectrom, EEMs, DOC, DN, FlFFF.
 
 **Sampling sites**:
 
 ![](\image\GL2017\Sampling_map2.jpg)
+
+
+Lake water samples were collected on board the R/V _Blue Heron_ between June 14<sup>th</sup> and 21<sup>st</sup>. Surface water samples were collected using the pump. Deep water samples (S30-278m, S13-125m) were collceted via Niskin bottles amounted on a CTD rossete.
+
 ![](\image\GL2017\Table-1.jpg)
 
 ## DOC concentration, a<sub>254</sub>, and SUVA<sub>254</sub>
@@ -41,8 +45,7 @@ Latest update: 2017-9-12
 
 ![](\image\GL2017\Graph245.jpg)
 
-
-Both DOC concentration and a<sub>254</sub> values are consistent with *Zhou et al 2013*. Thy are relatively low in Lake Superior and South Lake Michigan.  
+We found robust linear relationship between CDOM a<sub>254</sub> and DOC in Lake Michigan, but not in Lake Superior due to the consistency of Lake Superior. However, in the colloidal fractionation and < 1kDa fractionation the relationships were not observed in Lake Michigan. But the a<sub>254</sub>-DOC relationship were significant in Lake Superior. DOC concentration and CDOM a<sub>254</sub> values, which are comparatively lower in Lake Superior than Lake Michigan agree with measures in *Zhou et al. (2013)*.   
 
 ![](\image\GL2017\DOC-a254-SUVA-surface.jpg)
 
@@ -70,7 +73,7 @@ __Component 4__ is probably a noise-derived component.
 
 ### Distribution of C1~C4
 
-High correlation relationship is observed between **Component 1** and **Component 3**, which indicates similar source of these two components. Distribution of **Component 2** demonstrated the higher percentage of **autochthonous** fluorescence matter in Lake Michigan.
+High correlation relationship is observed between **Component 1** and **Component 3**, which indicates similar source of these two components. Distribution of **Component 2** demonstrated more **autochthonous** fluorescence matter in Lake Michigan than Lake Superior.
 
 ![](\image\GL2017\C1-C4.jpg)
 
@@ -110,8 +113,6 @@ $$ DPI = \frac{M_w}{M_n}$$
 
 Integration - UV1
 
-Let's pay attention to the Sample **S3-0m** and Sample **S22B-0m**. They have two common things which are distinguished with other samples; they were collected at the center of Lake Michigan and Lake Superior, and the percentage of **100 kDa ~0.7e-6 m** fraction were relatively low.
-
 ![](\image\GL2017\Multiple-samples---Integrations-of-each-size-intervals-Da-UV1.jpg)
 
 Integration FLD1 __Huimic-like__
@@ -137,7 +138,7 @@ __Huimic-like__ (FLD1)
 __Protein-like__ (FLD2)
 ![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-FLD2.jpg)
 
-/>100 kDa fractionation in protein-like FDOM occupied averagely more than half of the integration (57.32%) in Lake Michigan. Meanwhile, the largest protein-like fractionation (>100 kDa) has greatest proportion of FDOM integration chromotography.
+HMW fractionation (>100 kDa) in protein-like FDOM occupied averagely more than half of the integration (57.32%) in Lake Michigan. Meanwhile, the largest protein-like fractionation (>100 kDa) has greatest proportion of FDOM integration chromotography.
 
 |       Lake Michigan       |       |      Lake Superior      |
 |:-------------------------:|-------:|:-------------:|---------:|
@@ -191,3 +192,7 @@ __Huimic-like__ (FLD1)
 
 __Protein-like__ (FLD2)
 ![](\image\GL2017\Multiple-samples---Pie-Chartss-of-each-size-intervals-Da-_Combined_with_LMWFLD2.jpg)
+
+## PCA Analysis
+
+![](\image\GL2017\PCA-Analysis_esclipes.jpg)
