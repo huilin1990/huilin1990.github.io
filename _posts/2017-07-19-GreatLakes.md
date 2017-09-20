@@ -21,7 +21,7 @@ td{
 }
 </style>
 
-Latest update: 2017-9-17
+Latest update: 2017-9-20
 
 **R/V**: Blue Heron.
 
@@ -196,3 +196,6 @@ __Protein-like__ (FLD2)
 ## PCA Analysis
 
 ![](\image\GL2017\PCA-Analysis_esclipes.jpg)
+
+## Summary
+![](\image\GL2017\Table 4.jpg)
