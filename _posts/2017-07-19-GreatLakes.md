@@ -198,4 +198,4 @@ __Protein-like__ (FLD2)
 ![](\image\GL2017\PCA-Analysis_esclipes.jpg)
 
 ## Summary
-![](\image\GL2017\Table 4.jpg)
+![](\image\GL2017\Table-4.jpg)
