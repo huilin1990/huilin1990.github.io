@@ -31,7 +31,33 @@ Latest update: 2017-9-20
 
 **Sampling sites**:
 
-![](\image\GL2017\Sampling_map2.jpg)
+<style>
+#mapid { height: 500px; }
+</style>
+
+<div id="mapid">
+<script>
+var mymap = L.map('mapid').setView([44.576071, -88.674484],6);
+
+var Hydda_Base = L.tileLayer('https://{s}.tile.openstreetmap.se/hydda/base/{z}/{x}/{y}.png', {
+	maxZoom: 18,
+	attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(mymap);
+
+var marker1 = L.marker([43.3831,-87.15]).addTo(mymap);
+var marker2 =L.marker([45.1261,	-85.8201]).addTo(mymap)
+var marker3 =L.marker([42.32,	-86.57]).addTo(mymap)
+var marker4 =L.marker([42.4597,	-86.9752]).addTo(mymap)
+var marker5 =L.marker([47.4349,	-87.5697]).addTo(mymap)
+var marker6 =L.marker([47.0394,	-86.0862]).addTo(mymap)
+var marker7 =L.marker([47.1499,	-91.3002]).addTo(mymap)
+var marker8 =L.marker([47.1499,	-91.3002]).addTo(mymap)
+
+</script>
+</div>
+
+
+<!-- ![](\image\GL2017\Sampling_map2.jpg) -->
 
 
 Lake water samples were collected on board the R/V _Blue Heron_ between June 14<sup>th</sup> and 21<sup>st</sup>. Surface water samples were collected using the pump. Deep water samples (S30-278m, S13-125m) were collceted via Niskin bottles amounted on a CTD rossete.
