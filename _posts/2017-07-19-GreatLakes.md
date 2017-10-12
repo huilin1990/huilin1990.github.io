@@ -73,7 +73,7 @@ Lake water samples were collected on board the R/V _Blue Heron_ between June 14<
 
 We found robust linear relationship between CDOM a<sub>254</sub> and DOC in Lake Michigan, but not in Lake Superior due to the consistency of Lake Superior. However, in the colloidal fractionation and < 1kDa fractionation the relationships were not observed in Lake Michigan. But the a<sub>254</sub>-DOC relationship were significant in Lake Superior. DOC concentration and CDOM a<sub>254</sub> values, which are comparatively lower in Lake Superior than Lake Michigan agree with measures in *Zhou et al. (2013)*.   
 
-![](\image\GL2017\DOC-a254-SUVA-surface.jpg)
+![](\image\GL2017\DOC-a254-SUVA-surface_bg_clear.jpg)
 
 ![](\image\GL2017\Zhengzhen.jpg)
 
@@ -83,7 +83,7 @@ We found robust linear relationship between CDOM a<sub>254</sub> and DOC in Lake
 
 ![](\image\GL2017\LakeEEMscombination.jpg)
 
-![](\image\GL2017\bix_fix_hix_surface.jpg)
+![](\image\GL2017\bix_fix_hix_surface_bg_clear.jpg)
 
 Four FDOM components decomposed by parallel factor analysis are shown below.
 
@@ -95,13 +95,13 @@ The second highest peak from __Component 3__ is corresponding to __peaks M__ (Ex
 
 __Component 4__ is probably a noise-derived component.
 
-![](\image\GL2017\Fluorescence-EEM-Plot-of-components.jpg)
+![](\image\GL2017\Fluorescence-EEM-Plot-of-components_2.jpg)
 
 ### Distribution of C1~C4
 
 High correlation relationship is observed between **Component 1** and **Component 3**, which indicates similar source of these two components. Distribution of **Component 2** demonstrated more **autochthonous** fluorescence matter in Lake Michigan than Lake Superior.
 
-![](\image\GL2017\C1-C4.jpg)
+![](\image\GL2017\C1-C3_bg_clear.jpg)
 
 ### Correlation between parameters
 
