@@ -4,6 +4,15 @@ date: 2017-9-28 17:12
 categories: Research
 title: Milwaukee River Sampling Protocol
 ---
+
+# Methods
+
+## Sampling sites
+
+Milwaukee River provides significant nutrient supplies for Lake Michigan. According to (Fillingham 2015), the average daily flux of phosphrus asa approximately 250 kg d<sup>-1</sup>. Three locations, representing the Upstream, Downstream, and mixing Estuary, were selected as water sampling sites (Figures below). *In situ* specific conductivity, distance to Milwaukee Downtown area, and were considered during sampling sites selection. Water temperature, specific conductivity were measured during sampling.
+
+<iframe width="800" height="250" frameborder="0" scrolling="no" src="//plot.ly/~a54144/16.embed"></iframe>
+
 <style>
 #mapid { height: 600px; }
 </style>
@@ -15,7 +24,7 @@ var mymap = L.map('mapid').setView([43.07, -87.92],12);
 var Hydda_Base = L.tileLayer('https://{s}.tile.openstreetmap.se/hydda/base/{z}/{x}/{y}.png', {
 	maxZoom: 18,
 	attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="_blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-}).addTo(mymap);_
+}).addTo(mymap);
 
 var marker1 = L.marker([43.025392,-87.903591]).addTo(mymap);
 marker1.bindPopup("<b>Estuary</br></b>Milwaukee County Boat Launch").openPopup();
@@ -24,23 +33,62 @@ var marker2 =L.marker([43.133424, -87.928420]).addTo(mymap)
 marker2.bindPopup("<b>Upstream</b><br>Kletzsch Park.").openPopup();
 
 var marker3 =L.marker([43.0489, -87.8906]).addTo(mymap)
-marker2.bindPopup("<b>Euphotic Lake</b><br>Veterans Park.").openPopup();
+marker3.bindPopup("<b>Euphotic Lake</b><br>Veterans Park.").openPopup();
 
 var marker4 =L.marker([43.03529, -87.9101532]).addTo(mymap)
-marker2.bindPopup("<b>Downstream</b><br>Milwaukee Public Market.").openPopup();
+marker4.bindPopup("<b>Downstream</b><br>Milwaukee Public Market.").openPopup();
 
 </script>
-
-## Methods
-
-### Calibrate four online fluorescence detectors and two UV detectors.
-
-Excitation and emission wavelength were set to 310/425.
-
 </div>
+__
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~a54144/4.embed"></iframe>
+## Stirred Cell Ultrafiltration
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~a54144/8.embed"></iframe>
+Colloids larger than 1 kDa in water samples werer concentrated using Amicon stirred cell ultrafiltration. 180 ml water samples were poured into the cell.
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~a54144/10.embed"></iframe>
+### Ultrafiltration Permeation Model
+
+## Calibration
+
+### Time Calibration
+
+Fractionated colloids flowed through 2-channel UV detectors and two 2-channel fluorescence detectors in sequence. The delay times of each detectors were determined using quinine sulfate solution. Absorption at 254 nm were determined using the UV-Visable spectrophotometer online detector. Excitation/emission wavelength for four channels were set to 310/450 nm. The table below shows average delay time of each detectors against the first UV channel 1.
+
+<iframe width="700" height="300" frameborder="0" scrolling="no" src="//plot.ly/~a54144/14.embed"></iframe>
+
+### Online fluorescence detectors Calibration
+
+A concentration series of quinine sulfate solution, including 2 ppb, 5 ppb, 10 ppb, 20 ppb, 50 ppb, were used for fluorescence calibration.
+According to (Eaton, 1988), the fluorescence maximum was measured at 310/450 nm.
+
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="//plot.ly/~a54144/13.embed"></iframe>
+
+Therefore, Excitation/emission wavelength in four detectors were set to 310/450 nm. Quinine sulfate was injected directly without flow through the FlFFF channel. a platform was observed after each injection. The mean values of the platform indicates the concentration of quinine sulfate.
+
+<iframe width="900" height="600" frameborder="0" scrolling="no" src="//plot.ly/~a54144/4.embed"></iframe>
+
+Calibration curves were constructed for four fluorescence detectors (Figure and table below).
+
+<iframe width="900" height = "600" frameborder="0" scrolling="no" src="//plot.ly/~a54144/8.embed"></iframe>
+<iframe width="800" frameborder="0" scrolling="no" src="//plot.ly/~a54144/10.embed"></iframe>
+
+
+## Size-fractionated colloids excitation-emission matrix
+
+Online fluorescence detectors targeted on sixteen excitation-emission wavelengths in the area between the first order Ramen and Rayleigh scatter peak and the second order Ramen and Rayleigh scatter peak. Injections of ultrafiltrated water samples were repeated four times. Between sample injections, excitation-emission wavelengths in fluorescence detectors were altered.  
+
+### DOM from eutrophic lake (Animation below).
+
+Dissolved organic matter from eutrophic lakes contains more autochthonous dissolved organic matter.
+
+<iframe src="https://giphy.com/embed/3ov9jHWCrPGLeVD7TW" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+### DOM from Milwaukee River upstream.
+
+Terresgenious dissolved organic matter might be the dominated component in the composition of DOM in upstream Milwaukee River water.
+
+<iframe src="https://giphy.com/embed/3ohnEnLLGSDFfQ7Y0E" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+# References
+
+Eaton, D. F. (1988) Reference materials for fluorescence measurement. Pure Appl. Chem. 60, 1107-1114.
