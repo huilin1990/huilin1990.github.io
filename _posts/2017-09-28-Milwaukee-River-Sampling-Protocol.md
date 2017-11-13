@@ -11,7 +11,7 @@ title: Milwaukee River Sampling Protocol
 
 Milwaukee River provides significant nutrient supplies for Lake Michigan. According to (Fillingham 2015), the average daily flux of phosphrus asa approximately 250 kg d<sup>-1</sup>. Three locations, representing the Upstream, Downstream, and mixing Estuary, were selected as water sampling sites (Figures below). *In situ* specific conductivity, distance to Milwaukee Downtown area, and were considered during sampling sites selection. Water temperature, specific conductivity were measured during sampling.
 
-<iframe width="800" height="250" frameborder="0" scrolling="no" src="//plot.ly/~a54144/16.embed"></iframe>
+<iframe width="800" height="250" frameborder="0" scrolling="no" src="//plot.ly/~a54144/18.embed"></iframe>
 
 <style>
 #mapid { height: 600px; }
@@ -88,6 +88,14 @@ Dissolved organic matter from eutrophic lakes contains more autochthonous dissol
 Terresgenious dissolved organic matter might be the dominated component in the composition of DOM in upstream Milwaukee River water.
 
 <iframe src="https://giphy.com/embed/3ohnEnLLGSDFfQ7Y0E" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+### DOM from Milwaukee Upstream.
+
+<iframe src="https://giphy.com/embed/xUOxf1bMsllY6KZ9xC" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
+### DOM from eutrophic lake at Veterans Park.
+
+<iframe src="https://giphy.com/embed/xUOxf46Rlm2uLpWVEc" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 # References
 
