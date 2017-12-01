@@ -3,6 +3,7 @@ layout: post
 date: 2017-03-31 14:24
 categories: R
 title: Learning ggmap
+tags: r
 ---
 This is a document for myself to review ggmap package, and how to get quick start.
 

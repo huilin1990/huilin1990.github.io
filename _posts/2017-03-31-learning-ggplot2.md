@@ -3,6 +3,7 @@ layout: post
 date: 2017-03-31 14:12
 categories: R
 title: Learning ggplot2
+tags: r
 ---
 本课程介绍三种R语言的绘图工具包：`plot`,`qplot`,`ggplot`。三种绘图包的能够和语法均不相同。
 `plot`命令是R语言自带的绘图命令，绘图效果简单，适宜数据分析时绘图。
@@ -127,4 +128,4 @@ main,sub用于调节主副标题
 ```
 How to export a table.
 ```
-write.table(dataframe, "pathway") 
+write.table(dataframe, "pathway")

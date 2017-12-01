@@ -3,6 +3,7 @@ layout: post
 date: 2017-07-05 16:52
 categories: Research
 title: PARAFAC Abnormality solution
+Tags: Research
 ---
 PARAFAC Analysis results from Stephen et al., 2016 (STE)
 ![](\image\PARAFAC_EEM_Correction\Stephen 2016 STE.jpg)

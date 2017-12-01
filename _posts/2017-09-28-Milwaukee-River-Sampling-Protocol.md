@@ -3,6 +3,7 @@ layout: post
 date: 2017-9-28 17:12
 categories: Research
 title: Milwaukee River Sampling Protocol
+tags: Research
 ---
 
 # Methods
@@ -11,7 +12,10 @@ title: Milwaukee River Sampling Protocol
 
 Milwaukee River provides significant nutrient supplies for Lake Michigan. According to (Fillingham 2015), the average daily flux of phosphrus asa approximately 250 kg d<sup>-1</sup>. Three locations, representing the Upstream, Downstream, and mixing Estuary, were selected as water sampling sites (Figures below). *In situ* specific conductivity, distance to Milwaukee Downtown area, and were considered during sampling sites selection. Water temperature, specific conductivity were measured during sampling.
 
+_Geogrphical and hydrographic information about sampling locations_
 <iframe width="800" height="250" frameborder="0" scrolling="no" src="//plot.ly/~a54144/18.embed"></iframe>
+
+_Map of sampling sites_
 
 <style>
 #mapid { height: 600px; }
@@ -79,7 +83,7 @@ Online fluorescence detectors targeted on sixteen excitation-emission wavelength
 
 ### DOM from eutrophic lake (Animation below).
 
-Dissolved organic matter from eutrophic lakes contains more autochthonous dissolved organic matter.
+Dissolved organic matter from eutrophic lakes contains more autochthonous dissolved organic matter. It was collected in Oct 05, 2017.
 
 <iframe src="https://giphy.com/embed/3ov9jHWCrPGLeVD7TW" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 

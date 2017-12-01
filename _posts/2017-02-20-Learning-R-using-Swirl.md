@@ -2,7 +2,7 @@
 layout: post
 title: Learning R using Swirl
 date: 2017-02-20 20:30
-tags: R
+tags: r
 ---
 # 用Swirl学习R语言，Learn R, in R
 

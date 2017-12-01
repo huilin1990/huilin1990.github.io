@@ -3,6 +3,7 @@ layout: post
 date: 2017-04-02 22:46
 categories: birdwatching
 title: birdwatching note 2017-04-02
+tags: life
 ---
 Time: 2017-04-02 9:34-11:10
 Partners: Hui Lin, Shaowei Zhai, Song Yang.

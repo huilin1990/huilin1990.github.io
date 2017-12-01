@@ -2,7 +2,7 @@
 layout: post
 title: Learning R in Kaggle
 date: 2017-03-22 12:35
-tags: R
+tags: r
 ---
 I'm learning data analysis and explore in R following the tutorial posted in [Kaggle](https://www.kaggle.com/mrisdal/titanic/exploring-survival-on-the-titanic)
 
