@@ -39,7 +39,7 @@ ggmap(myMap)
 ##3 = continent, 10=city, 21=building
 ##(openstreetmap limit of 18)
 ```
-### Step 2 deoorate your map with data
+### Step 2 decorate your map with data
 
 ---
 
