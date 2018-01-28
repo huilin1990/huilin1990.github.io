@@ -58,26 +58,45 @@ Sampling site: between the Dalton Highway Bridge and the `USGS Stevens Village` 
 ![COM analysis](\image\Yukon\Analysis.jpg)
 ![LMW](\image\Yukon\LMW.jpg)
 
-### Integrations of each size intervals - Size distribution of COM
+### Hydrodynamic diameters distribution of colloids in the Yukon River upper stream in 2002.
+### UV1
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) UV1 Yukon 01 COM.jpg)
+### UV2
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) UV2 Yukon 01 COM.jpg)
+### Fluorescence 1 -
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) FLD1 Yukon 01 COM.jpg)
+### Fluorescence 2 -
+![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) FLD2 Yukon 01 COM.jpg)
 
-### UV1-UV<sub>254</sub>
+## size distribution (molecular weights)
+## UV1
+![](\image\Yukon\Multiple samples - Molecular weights(kDa) UV1 Yukon 01 COM.jpg)
+## UV2
+![](\image\Yukon\Multiple samples - Molecular weights(kDa) UV2 Yukon 01 COM.jpg)
+## Fluorescence 1 (Ex/Em = 350 nm /450 nm)
+![](\image\Yukon\Multiple samples - Molecular weights(kDa) FLD1 Yukon 01 COM.jpg)
+## Fluorescence 2 (Ex/Em = 275 nm/ 340 nm)
+![](\image\Yukon\Multiple samples - Molecular weights(kDa) FLD2 Yukon 01 COM.jpg)
+
+### Integrations of each size intervals - Size distribution of colloidal organic matter
+## UV1
+![](\image\Yukon\Multiple samples - Integrations of each size intervals nm UV1 Yukon 01 COM.jpg)
+## UV2
+![](\image\Yukon\Multiple samples - Integrations of each size intervals nm UV2 Yukon 01 COM.jpg)
+## Fluorescence 1 (Ex/Em = 350 nm /450 nm)
+![](\image\Yukon\Multiple samples - Integrations of each size intervals nm FLD1 Yukon 01 COM.jpg)
+## Fluorescence 2 (Ex/Em = 275 nm/ 340 nm)
+![](\image\Yukon\Multiple samples - Integrations of each size intervals nm FLD2 Yukon 01 COM.jpg)
+### Integrations of size intervals - size distribution of colloids in molecular weights
+## UV1
 ![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV1 Yukon 01 COM.jpg)
-### UV2-UV<sub>280</sub>
+## UV2
 ![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV2 Yukon 01 COM.jpg)
-### Fluorescence <sub>350/450</sub> (Humic-like)
+## Fluorescence 1 (Ex/Em = 350 nm /450 nm)
 ![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD1 Yukon 01 COM.jpg)
-### Fluorescence <sub>275/340</sub> (Protein-like)
+## Fluorescence 2 (Ex/Em = 275 nm/ 340 nm)
 ![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD2 Yukon 01 COM.jpg)
 
-### Integrations of each size intervals - Size distribution of DOM
-### UV1-UV<sub>254</sub>
-![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV1 Yukon 01 DOM.jpg)
-### UV2-UV<sub>280</sub>
-![](\image\Yukon\Multiple samples - Integrations of each size intervals Da UV2 Yukon 01 DOM.jpg)
-### Fluorescence <sub>350/450</sub> (Humic-like)
-![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD1 Yukon 01 DOM.jpg)
-### Fluorescence <sub>275/340</sub> (Protein-like)
-![](\image\Yukon\Multiple samples - Integrations of each size intervals Da FLD2 Yukon 01 DOM.jpg)
 
 ### Total data
 
@@ -177,15 +196,3 @@ Concentrations of carbohydrate species, including monosaccharides (MCHO) and pol
 ### Isotope source difference
 
 ![isotope source](\image\Yukon\isotope-source.jpg)
-
-### Hydrodynamic diameter (nm)
-
-### Integrations of each size intervals - Size distribution of DOM
-### UV1
-![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) UV1 Yukon 01 COM.jpg)
-### UV2
-![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) UV2 Yukon 01 COM.jpg)
-### Fluorescence 1 -
-![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) FLD1 Yukon 01 COM.jpg)
-### Fluorescence 2 -
-![](\image\Yukon\Multiple samples - Hydrodynamic diameter (nm) FLD2 Yukon 01 COM.jpg)
