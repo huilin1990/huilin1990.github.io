@@ -2,13 +2,13 @@
 layout: post
 date: 2018-1-27 17:12
 categories: Research
-title: size distribution and elements in groundwater samples from Yuqin
+title: Size distribution and elements in groundwater samples from Yuqin
 tags: Research
 ---
 
 ## AF4-ICP-MS
 
-The amount of Arsenic elements in the collected colloidal fractionations. 
+The amount of Arsenic elements in the collected colloidal fractionations.
 
 ![](\image\Groundwater\ICP-MS-As.jpg)
 
