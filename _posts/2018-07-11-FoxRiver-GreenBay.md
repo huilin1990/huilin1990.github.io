@@ -28,17 +28,29 @@ Source from: [historic weather](https://www.timeanddate.com/weather/usa/green-ba
 
 _Map of sampling sites_
 
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+   
+   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+   
 <style>
-#mapid { height: 600px; }
+#mapid { height: 500px; }
 </style>
 
 <div id="mapid">
 <script>
 var mymap = L.map('mapid').setView([44.57, -88],11);
 
-var Hydda_Base = L.tileLayer('https://{s}.tile.openstreetmap.se/hydda/base/{z}/{x}/{y}.png', {
-	maxZoom: 18,
-	attribution: 'Tiles courtesy of <a href="http://openstreetmap.se/" target="blank">OpenStreetMap Sweden</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    id: 'mapbox/streets-v11',
+    tileSize: 512,
+    zoomOffset: -1,
+    accessToken: 'pk.eyJ1IjoiYTU0MTQ0IiwiYSI6ImNrZ2I5NmExczBleTAycnRoMTBveGFvazAifQ.M2spDVYVzk3GOr1yY-5Zdw'
 }).addTo(mymap);
 
 var myIcon = L.icon({
