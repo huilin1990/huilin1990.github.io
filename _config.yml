@@ -8,7 +8,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 author: Hui Lin
-title: Carapace
+title: Hui Lin
 email: huilin@uwm.edu
 description: > # this means to ignore newlines until "baseurl:"
   Hui Lin's blog.
